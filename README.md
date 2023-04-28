@@ -1,1 +1,1 @@
-# example-projects-using-design-patterns
+# Example Projects Using Design Patterns
