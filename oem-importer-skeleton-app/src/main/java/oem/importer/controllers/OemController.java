@@ -12,8 +12,8 @@ import java.net.URI;
 public class OemController {
     private final OemService oemService;
 
-    public OemController(OemService oemServiceImpl) {
-        this.oemService = oemServiceImpl;
+    public OemController(OemService oemService) {
+        this.oemService = oemService;
     }
 
     @PostMapping("/import")
